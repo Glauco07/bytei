@@ -20,3 +20,5 @@ Jamille Sodré Pache Gomes - 10262478 - JamilleSodre
 Matheus Vinicius Gouvea de Godoi - 10295217 - MatheusGodoi
 
 Tsai Chen Zhe - 10295113 - tsaichenzhe
+
+Luiz Pedro da Silva Ambrósio - 8530994 -
