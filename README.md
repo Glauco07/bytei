@@ -5,6 +5,7 @@ Repositório da Empresa Bytei da disciplina SSC0527 - Engenharia de Software.
 
 Página:
 https://www.facebook.com/byteiTec
+
 Trello:
 https://trello.com/bytei
 
