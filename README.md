@@ -3,6 +3,8 @@
 
 Repositório da Empresa Bytei da disciplina SSC0527 - Engenharia de Software.
 
+Para desenvolvimento do aplicativo, utilizamos React-Native e a ferramenta Expo-cli para visualização do projeto.
+
 Página:
 https://www.facebook.com/byteiTec
 
