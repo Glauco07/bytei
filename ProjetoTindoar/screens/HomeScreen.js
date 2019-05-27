@@ -21,12 +21,12 @@ export default class App extends Component {
         </View>
 
         {/*Botao login com Facebook*/}
-        <TouchableHighlight onPress={() => this.props.navigation.navigate('Test')}>
+        <TouchableHighlight onPress={() => this.props.navigation.navigate('Placeholder')}>
             <Image style={styles.botaoLoginFacebook} source={require('../assets/icons/entrarFace/drawable-xhdpi/botaoFace.png')}/>
         </TouchableHighlight>
 
         {/*Botao login com email*/}
-        <TouchableHighlight onPress={() => this.props.navigation.navigate('Test')}>
+        <TouchableHighlight onPress={() => this.props.navigation.navigate('Placeholder')}>
             <Image style={styles.botaoLoginEmail} source={require('../assets/icons/entrarEmail/drawable-xhdpi/botaoEmail.png')}/>
         </TouchableHighlight>
 

@@ -8,7 +8,7 @@ export default class App extends Component {
 
   constructor(App){
     super(App);
-    this.state = {nomeCadastro: "NULLdoBRINDE"};
+    this.state = {nomeCadastro: "NULLdoNOME"};
   }
 
   render() {
@@ -45,7 +45,7 @@ export default class App extends Component {
 
         {/*Botao de Confirmar*/}
         <View style={styles.botaoConfirmarContainer}>
-          <TouchableHighlight onPress={() => this.props.navigation.navigate('Test')}>
+          <TouchableHighlight onPress={() => this.props.navigation.navigate('RegisterEmail')}>
             <Image style={styles.botaoConfirmarStyle} source={require('../assets/icons/botaoContinuar/drawable-xhdpi/continuar.png')}/>
           </TouchableHighlight>
         </View>
