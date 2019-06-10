@@ -1,0 +1,25 @@
+1:Sobre a plataforma:
+  1.1:Qual a preferência de plataforma? Há necessidade de mais de uma?(exemplo mobile, web...)
+  1.2:Se for para instalar, qual S.O. deve-se ter compatibilidade?
+
+2:Sobre o aplicativo:
+  2.1:Forma de login preferencial?(exemplo logar por facebook, google, apenas pelo Tindoar)
+  2.2:Necessita de alguma forma de segurança?(confirmar conta através de alguma espécie de código)
+  2.3:Há limitação para quantidade de registro de produtos a serem doados?
+  2.4:Que dados são necessários o usuário fornecer para criação de conta?
+  2.5:Que dados os usuários precisam ficar visivel aos negociantes de forma a garantir segurança ao realizá-la?
+  2.6:Existirá uma forma de análise do doador/recebedor?
+  2.7:Há um limite de distância entre doador/recebedor, o mesmo pode ser alterado pelo usuário?
+
+3:Design e usabilidade:
+  3.1:Logotipo já existe ou devemos criar?
+  3.2:Há necessidade por uso de cores específicas?
+  3.3:Há uma fonte de texto específica para ser usada ou devemos escolher?
+  3.4:Existem imagens específicas para serem usadas?
+  3.5:Qual problema você deseja resolver?
+  3.6:Qual seu público alvo(idade, região e etc)? 
+  
+
+
+  PO: Matheus Vinicius Govea de Godoi
+  Suplente: Hugo de Azevedo Vitulli
